@@ -12,7 +12,7 @@
 ⚡ 有趣的事实：我喜欢发现美丽的风景，并结交志同道合的人！🌄✨
 
 ## About Me
-![仓库状态统计](https://github-readme-stats.vercel.app/api?username=rumian00e&show_icons=true&theme=transparent)
+![仓库状态统计](https://github-readme-stats.vercel.app/api?username=rumian0e&show_icons=true&theme=transparent)
 ![主页访问量统计](https://profile-counter.glitch.me/rumian0/count.svg)
 ![常用语言占比统计](https://github-readme-stats.vercel.app/api/top-langs/?username=rumian0&layout=compact&theme=tokyonight)
-![Github活动统计图](https://github-readme-activity-graph.cyclic.app/graph?username=rumian0&theme=dracula)
+
